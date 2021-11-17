@@ -1,0 +1,15 @@
+#colorMain{
+    fill: #ffd900;
+}
+
+#colorSecondary{
+    fill: #d62000;
+}
+
+#textColorMain{
+    fill: #d62000;
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
